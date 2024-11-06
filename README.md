@@ -1,4 +1,5 @@
 Bike Sharing Demand Prediction
+
 This project aims to predict the bike rental demand using historical usage data, along with weather and seasonal information. The dataset contains records of bike rentals over time, with various features related to time, weather conditions, and user types (casual vs. registered).
 
 Project Overview
